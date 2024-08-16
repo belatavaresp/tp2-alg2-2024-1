@@ -12,9 +12,15 @@ https://archive.ics.uci.edu/dataset/110/yeast
 
 ## Guia para os arquivos csv
 *cluster_real_1*, *cluster_sintetico_1*, *cluster_sintetico_2* = resultados do algoritmo de maiores distâncias nos datasets reais e sintéticos
+
 *k_means_real*, *k_means_sintetico* = resultados do algoritmo k-means nos datasets reais e sintéticos
+
 *resultado_1* = comparação k-means e maiores distâncias no dataset sintético 1
+
 *resultado_2* = comparação k-means e maiores distâncias no dataset sintético 2
+
 *resultado_real_1* = comparação k-means e maiores distâncias no dataset real
+
 *bsearch_real*, *resultado_bsearch_sintetico_1*, *resultado_bsearch_sintetico_2* = resultados do algoritmo de busca binária nos datasets reais e sintéticos
+
 *resultado_bsearch_real_1* = resultado das métricas de qualidade do algoritmo de busca binária
